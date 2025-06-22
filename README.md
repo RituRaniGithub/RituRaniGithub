@@ -6,7 +6,7 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
 - Currently pursuing **Masters in Statistics**.
 - Passionate about **Data Science**, visual storytelling & business analytics
@@ -56,10 +56,10 @@ Check out my **pinned repositories** below, that's where I share everything I'm 
 
 ---
 
-### 💌 Connect with Me
+### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e8?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/YourLinkedInLink)
-[![Medium](https://img.shields.io/badge/Medium-e6c5ff?style=flat&logo=medium&logoColor=black)](https://medium.com/@YourMediumLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e8?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/ritu-rani-stats/)
+[![Medium](https://img.shields.io/badge/Medium-e6c5ff?style=flat&logo=medium&logoColor=black)](https://medium.com/@TheDataLearner)
 
 ---
 
