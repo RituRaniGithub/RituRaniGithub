@@ -1,68 +1,68 @@
-<h2 align="center">Hi, I'm Ritu 👋</h2>
+<h2 align="center">Hi, I'm Ritu! 👋</h2>
 
 <p align="center">
-📊 MSc Statistics | 🎯 Data Science Enthusiast | 💡 Learner for Life  
+📊 MSc Statistics | 🎯 Data Science Enthusiast | 🌸 Pastel Coder | 📍 Delhi, India
 </p>
 
 ---
 
-### 🌟 About Me
+### 💡 About Me
 
-- 🎓 Currently pursuing **MSc in Statistics** at **Lady Shri Ram College**, DU
-- 🧠 Learning **Machine Learning**, **EDA**, and **Python**
-- 👀 Interested in **Data Science**, business understanding, and analytics
-- 🧩 Currently strengthening theory, and slowly building real-world confidence
+- Currently pursuing **MSc Statistics** at **Lady Shri Ram College (DU)**
+- Passionate about **Data Science**, visual storytelling & business analytics
+- I love exploring how raw data becomes real-world decisions
+- Building projects with Python, writing about my learning, and working toward confidence every day
 
-> _"Still learning, still growing — and that's perfectly okay."_ 🌱
-
----
-
-### 🛠️ Tech & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-2D8CB0?style=flat)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?style=flat&logo=beautifulsoup&logoColor=black)
+> _"Curious mind. Clean code. Stories behind every dataset."_ ✨
 
 ---
 
-### 💼 Projects
+### 🔧 Tools & Technologies
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🛍️ **AI Tool Recommender** | Recommends AI tools by category using NLP + similarity matching | Python, NLP, cosine similarity, Streamlit |
-| 📊 **Bank Churn Prediction** | Built decision tree model with 85% accuracy | EDA, sklearn, Decision Tree |
-| 🎨 **Art Web Scraper** | Scraped & cleaned artwork data with metadata | BeautifulSoup, Pandas |
-
-🔗 *More projects available on [my GitHub repositories](https://github.com/RituRaniGithub?tab=repositories)*
+![Python](https://img.shields.io/badge/Python-ffd6e8?style=flat&logo=python&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-e6c5ff?style=flat&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/Numpy-cce5f7?style=flat&logo=numpy&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-fff1b6?style=flat&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-f6d6e0?style=flat&logo=seaborn&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-f2d3c2?style=flat&logo=scikit-learn&logoColor=black)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ece2f0?style=flat&logo=beautifulsoup&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-ffdee3?style=flat&logo=streamlit&logoColor=black)
 
 ---
 
-### 📈 GitHub Activity
+### 📂 My Work
+
+Check out my **pinned repositories** below — that's where I share everything I'm learning and building 💻  
+From beginner projects to mini experiments — it's all a part of becoming a confident data analyst.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RituRaniGithub&theme=rose_pine" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RituRaniGithub&show_icons=true&theme=default&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RituRaniGithub&layout=compact&theme=default" />
 </p>
 
 ---
 
-### 📚 Currently Learning
+### 🎯 Currently Exploring
 
-- 🔍 EDA & Hypothesis Testing
-- 🌳 Decision Trees & Basic ML
-- 🧮 Statistical Inference & Linear Algebra (for real this time 😅)
-- 💻 Portfolio building & storytelling with data
-
----
-
-### 🌐 Let's Connect!
-
-(Coming soon! Will add links here once my portfolio and LinkedIn are ready.)
+- 📚 Machine Learning (Decision Trees, Logistic Regression)
+- 📊 EDA + Hypothesis Testing in Python
+- 🧠 Linear Algebra & Statistical Inference (hello semester exams 😅)
+- 🎨 Building my personal portfolio site & YouTube channel soon!
 
 ---
 
-> *"I may not know everything, but I’m brave enough to begin — and that matters more."* 💫
+### 💌 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e8?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/YourLinkedInLink)
+[![Medium](https://img.shields.io/badge/Medium-e6c5ff?style=flat&logo=medium&logoColor=black)](https://medium.com/@YourMediumLink)
+
+---
+
+<p align="center"><i>"Let’s turn messy data into meaningful stories. One project at a time."</i></p>
