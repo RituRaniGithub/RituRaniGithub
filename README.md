@@ -1,19 +1,19 @@
-<h2 align="center">Hi, I'm Ritu! 👋</h2>
+<h2 align="center">Hi, I'm Ritu Rani! 👋</h2>
 
 <p align="center">
-📊 MSc Statistics | 🎯 Data Science Enthusiast | 🌸 Pastel Coder | 📍 Delhi, India
+📊 MSc Statistics | 🎯 Data Science Enthusiast |💡 Learner for Life  
 </p>
 
 ---
 
 ### 💡 About Me
 
-- Currently pursuing **MSc Statistics** at **Lady Shri Ram College (DU)**
+- Currently pursuing **Masters in Statistics**.
 - Passionate about **Data Science**, visual storytelling & business analytics
 - I love exploring how raw data becomes real-world decisions
 - Building projects with Python, writing about my learning, and working toward confidence every day
 
-> _"Curious mind. Clean code. Stories behind every dataset."_ ✨
+> _"Learning and growing with every dataset."_ ✨
 
 ---
 
@@ -32,8 +32,7 @@
 
 ### 📂 My Work
 
-Check out my **pinned repositories** below — that's where I share everything I'm learning and building 💻  
-From beginner projects to mini experiments — it's all a part of becoming a confident data analyst.
+Check out my **pinned repositories** below, that's where I share everything I'm learning and building 💻  
 
 ---
 
@@ -53,8 +52,7 @@ From beginner projects to mini experiments — it's all a part of becoming a con
 
 - 📚 Machine Learning (Decision Trees, Logistic Regression)
 - 📊 EDA + Hypothesis Testing in Python
-- 🧠 Linear Algebra & Statistical Inference (hello semester exams 😅)
-- 🎨 Building my personal portfolio site & YouTube channel soon!
+- 🧠 Linear Algebra & Statistical Inference
 
 ---
 
