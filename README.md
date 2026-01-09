@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Ritu Rani! 👋</h2>
 
 <p align="center">
-📊 MSc Statistics | 🎯 Data Science Enthusiast |💡 Learner for Life  
+MSc Statistics | 🎯 Data Science Enthusiast |💡 Learner for Life  
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-ffd6e8?style=flat&logo=python&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-e6c5ff?style=flat&logo=pandas&logoColor=black)
@@ -36,7 +36,7 @@ Check out my **pinned repositories** below, that's where I share everything I'm 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RituRaniGithub&show_icons=true&theme=default&hide_title=true" />
@@ -45,15 +45,6 @@ Check out my **pinned repositories** below, that's where I share everything I'm 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RituRaniGithub&layout=compact&theme=default" />
 </p>
-
----
-
-### 🎯 Currently Exploring
-
-- 📚 Machine Learning (Decision Trees, Logistic Regression)
-- 📊 EDA + Hypothesis Testing in Python
-- 🧠 Linear Algebra & Statistical Inference
-
 ---
 
 ### Connect with Me
