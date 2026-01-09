@@ -32,21 +32,9 @@ MSc Statistics | 🎯 Data Science Enthusiast |💡 Learner for Life
 
 ### 📂 My Work
 
-Check out my **pinned repositories** below, that's where I share everything I'm learning and building 💻  
+Check out my **pinned repositories** below, that's where I share everything I'm learning and building.
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RituRaniGithub&show_icons=true&theme=default&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RituRaniGithub&layout=compact&theme=default" />
-</p>
----
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e8?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/ritu-rani-stats/)
