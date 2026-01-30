@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Ritu Rani! 👋</h2>
 
 <p align="center">
-MSc Statistics | 🎯 Data Science Enthusiast |💡 Learner for Life  
+MSc Statistics | Data Science Enthusiast |Learner for Life  
 </p>
 
 ---
