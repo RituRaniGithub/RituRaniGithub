@@ -13,7 +13,7 @@ MSc Statistics | Data Science Enthusiast |Learner for Life
 - I love exploring how raw data becomes real-world decisions
 - Building projects with Python, writing about my learning, and working toward confidence every day
 
-> _"Learning and growing with every dataset."_ ✨
+> _"Learning and growing with every dataset."_ 
 
 ---
 
@@ -30,7 +30,7 @@ MSc Statistics | Data Science Enthusiast |Learner for Life
 
 ---
 
-### 📂 My Work
+### My Work
 
 Check out my **pinned repositories** below, that's where I share everything I'm learning and building.
 
