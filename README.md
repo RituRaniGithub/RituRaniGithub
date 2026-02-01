@@ -32,7 +32,7 @@ MSc Statistics | Data Science Enthusiast |Learner for Life
 
 ### My Work
 
-Check out my **pinned repositories** below, that's where I share everything I'm learning and building.
+Check out my **pinned repositories** below or visit my portfolio [My Portfolio](https://rituranigithub.github.io/), that's where I share everything I'm learning and building.
 
 ---
 ### Connect with Me
